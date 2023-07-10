@@ -79,4 +79,129 @@
     margin-left: 10px;
     padding: 20px 0 0 50px;
  }
- 
+ .hot-deal{
+
+    background: #e554730c;
+    display: flex;
+    margin-top: 60px;
+    padding:150px 0 0 300px;
+    
+ }
+ .deal-contain{
+
+    padding: 50px 0 0 50px;
+ }
+.img-class{
+
+    margin-left: 50px;
+    padding-left: 100px;
+    
+}
+span{
+
+    color: #E55473;
+}
+.deal-title{
+
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+  
+.deal-info{
+    text-align: center;
+    font-size: normal;
+}
+.signup{
+
+    border: none;  
+    border-radius: 5px;
+    background: #E55473;
+    padding: 20px 40px;
+    color: #FFFFFF;
+    
+    
+}
+.insta-title{
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+.insta-info{
+
+
+   text-align: center;
+
+}
+#span{
+
+    line-height: 3px;
+}
+.insta-img{
+
+    margin-right: 200px;
+}
+.insta1,.insta2,.insta3,.insta4{
+
+   height: 300px;
+  
+}
+.insta1{
+
+    margin-left: 400px;
+}
+.insta2{
+
+    margin-left: 5px;
+}
+.insta3{
+
+    margin-left: 5px;
+
+}
+.insta4{
+
+    margin-left: 5px;
+}
+.sec-item{
+
+    text-align: center;
+    margin-top: 100px;
+    background-color: #E5547310;
+    height: 400px;
+}
+.sec-title{
+
+    color: #272727;
+    font-size: 30px;
+}
+.sec-div{
+
+    padding-top: 100px;
+   
+    color: #27272760;
+    line-height: 5px;
+}
+.input{
+
+    margin-top: 10px;
+    background-color: #FFFFFF;
+    border: none;
+    padding: 20px;
+    height: 5px;
+    width: 20%;
+    
+}
+.btn-sub{
+    border: none;  
+    border-radius: 8px;
+    background: #E55473;
+    padding: 15px 25px;
+    color: #FFFFFF;
+    margin-left: 5px;
+    
+    
+
+}
