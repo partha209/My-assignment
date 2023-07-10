@@ -1,0 +1,82 @@
+
+.text-title{
+     font-size: 50px;
+    color: #272727;
+    font-weight: 900;
+    font-family: 'Open Sans', sans-serif;
+  
+}
+.text-info{
+
+    color: #27272760;
+}
+.text-higher{
+
+    display: flex; 
+}
+
+.btn-primary{
+    border: none;  
+    border-radius: 5px;
+    background: #E55473;
+    padding: 15px 35px;
+    color: #FFFFFF;
+
+}
+.text-cointainer{
+
+    margin: 200px;
+}
+.collection-cointain{
+    
+    text-align: center;
+    padding: 50px;
+    margin-top: 50px;
+}
+.collection-title{
+
+    color: #272727;
+    text-align: center;
+}
+.collection-info{
+
+    color: #27272760;
+    text-align: center;
+    display: block;
+    font-size: 18px;
+   
+}
+
+.image-cointainer{
+
+   margin: 0 0 0 500px;
+  
+}
+
+.img1{
+
+    border: 2px solid #A7216215;
+    padding: 50px 40px 0 35px;
+    background-color: #A7216215;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    margin-right: 10px;
+}
+.img2{
+
+     background-color: #0597A015;
+     border: 2px solid #0597A015;
+     border-top-left-radius: 200px;
+     border-top-right-radius: 200px;
+     padding: 130px 0 0 30px;
+ }
+ .img3{
+
+    border: 2px solid #477D1115;
+    background-color: #477D1115;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    margin-left: 10px;
+    padding: 20px 0 0 50px;
+ }
+ 
