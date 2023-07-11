@@ -49,7 +49,7 @@
 
 .image-cointainer{
 
-   margin: 0 0 0 500px;
+   margin: 0 0 0 400px;
   
 }
 
@@ -201,7 +201,33 @@ span{
     padding: 15px 25px;
     color: #FFFFFF;
     margin-left: 5px;
-    
-    
+}
+.footer{
 
+     text-align: center;
+     height: 445px;
+     background-color: #111010;
+     color: #FFFFFF;
+     padding-top: 200px;
+     
+   
+}
+.footer-title{
+
+    font-size: 48px;
+    
+    font-family: 'Open Sans', sans-serif;
+}
+span{
+    color: #E55473;
+}
+.footer-info{
+
+    color: #ffffffc7;
+    font-size: 18px;
+}
+.para{
+     line-height: auto;
+    font-size: 18px;
+    color: #ffffff75;
 }
